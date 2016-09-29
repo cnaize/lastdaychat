@@ -1,6 +1,6 @@
 # lastdaychat
 ## anonymous secure chat
-*all messages encrypts and decrypts with AES-256 on clients based on __secrets__ which you may tell just your friends, server knows nothing*
+*all messages encrypts and decrypts with AES-256 on clients based on __secrets__ which you may tell just your friends*
 
 #### Features:
 - [x] anonymous
