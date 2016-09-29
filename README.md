@@ -17,4 +17,4 @@
 #### TODO:
 - [ ] adapt for mobile
 
-### Pull requests welcome :tea:
+### Pull requests are welcome :tea:
