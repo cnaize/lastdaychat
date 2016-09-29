@@ -9,7 +9,7 @@
 - [x] server stores nothing
 - [x] client stores nothing
 - [x] client removes __username__ and __secret__ immediately after entering __room__
-- [x] room destroyed if empty
+- [x] __room__ destroyed if empty
 - [x] ready for [Heroku](https://www.heroku.com/)
 
 #### Demo:
