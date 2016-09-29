@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
     <title>lastday chat</title>
+    <meta name="Description" content="anonymous secure chat">
+    <meta name="Keywords" content="lastdaychat lastday last day chat anonymous secure chat">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/css/materialize.min.css">
