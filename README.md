@@ -12,7 +12,7 @@
 
 #### installation:
 `go get -u github.com/cnaize/lastdaychat`
-#### params:
+#### run params:
 * __port__ - default server port
 
 #### TODO:
