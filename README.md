@@ -5,6 +5,10 @@
 #### Features:
 - [x] anonymous
 - [x] secure
+- [x] server knows nothing about __usernames__ and __secrets__
+- [x] server stores nothing
+- [x] client stores nothing
+- [x] client removes __username__ and __secret__ immediately after entering __room__
 - [x] ready for [Heroku](https://www.heroku.com/)
 
 #### Demo:
