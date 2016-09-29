@@ -49,7 +49,7 @@ func (c *Chat) Run(defaultPort string) error {
 	r.HandleFunc("/rooms", c.roomsShow).Methods(http.MethodGet)
 	r.HandleFunc("/users", c.userCount).Methods(http.MethodGet)
 	r.HandleFunc("/ws", c.wsHandler)
-	cors := handlers.CORS(handlers.AllowedOrigins([]string{"http://lastday.herokuapp.com"}), handlers.AllowedMethods([]string{http.MethodGet}))
+	cors := handlers.CORS(handlers.AllowedOrigins([]string{"http://lastdaychat.herokuapp.com"}), handlers.AllowedMethods([]string{http.MethodGet}))
 	return http.ListenAndServe(":"+port, cors(r))
 }
 
