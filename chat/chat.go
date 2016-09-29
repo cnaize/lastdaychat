@@ -40,7 +40,7 @@ func (c *Chat) Run(defaultPort string) error {
 	if port == "" {
 		port = defaultPort
 	}
-	fmt.Printf("Chat run on port: %s...", port)
+	fmt.Printf("Chat run on port: %s...\n", port)
 	r := mux.NewRouter()
 	r.PathPrefix("/static/").Handler(http.StripPrefix("/static/", http.FileServer(http.Dir("./static/"))))
 
