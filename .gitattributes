@@ -1,2 +1,2 @@
-chat/*.go linguist-language=Go
+*.go linguist-vendored
 static/js/*.js linguist-vendored=false
