@@ -1,2 +1,2 @@
 *.go linguist-language=Go
-*.js linguist-vendored=false
+static/js/*.js linguist-vendored=false
