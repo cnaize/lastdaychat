@@ -1,5 +1,5 @@
 {
-	"ImportPath": "bitbucket.org/cnaize/lastdaychat",
+	"ImportPath": "github.com/cnaize/lastdaychat",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
 	"Deps": [
